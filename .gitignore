@@ -2,3 +2,4 @@ dags/src/credentials.py
 dags/src/data
 logs/
 *.pyc
+airflow.db
