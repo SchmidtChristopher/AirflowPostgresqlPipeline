@@ -1,6 +1,6 @@
 # Airflow Data Pipeline
 
-Example of how a local ETL pipeline can be set up using <a href="https://airflow.incubator.apache.org/">Airflow</a>. The Airflow DAG is set up to query  I set up at DAG to query the <a href="https://www.last.fm/">LastFM</a> API daily, process the json data and store it in a local <a href="https://www.postgresql.org/">PostgreSQL</a> database.
+Example of how a local ETL pipeline can be set up using <a href="https://airflow.incubator.apache.org/">Airflow</a>. The Airflow DAG is set up to query the <a href="https://www.last.fm/">LastFM</a> API daily, process the json data, and store it in a local <a href="https://www.postgresql.org/">PostgreSQL</a> database.
 
 
 Requirements
